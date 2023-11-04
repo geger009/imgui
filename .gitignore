@@ -68,3 +68,7 @@ examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
 *.user
 *.userosscache
 *.sln.docstates
+
+# Build results
+_[Bb]in/
+_[Bb]uild/
